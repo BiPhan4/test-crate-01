@@ -5,6 +5,9 @@ authors = ["Bi Phan <bi@jackallabs.io>"]
 edition = "2021"
 description = "Bindings for CustomMsg for the Jackal blockchain. CustomQuery likely not needed"
 license = "MIT"
+repository = "https://github.com/BiPhan4/test-crate-01"
+keywords = ["jackal", "bindings"]
+categories = ["cosmos", "blockchain"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
