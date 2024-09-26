@@ -7,7 +7,7 @@ description = "Bindings for CustomMsg for the Jackal blockchain. CustomQuery lik
 license = "MIT"
 repository = "https://github.com/BiPhan4/test-crate-01"
 keywords = ["jackal", "bindings"]
-categories = ["cosmos", "blockchain"]
+categories = ["network-programming"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
